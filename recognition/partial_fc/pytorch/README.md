@@ -8,12 +8,13 @@ Insightface 社区需要大家一起贡献才会变得更好，欢迎大家提�
 
 
 ## How to run
-cuda=10.1
-pytorch==1.6.0
-pip install -r requirement.txt
+cuda=10.1  
+pytorch==1.6.0  
+pip install -r requirement.txt  
 
+```shell
 bash run.sh
-
+```
 
 ## Citation
 If you find Partial-FC or Glint360K useful in your research, please consider to cite the following related paper: 
